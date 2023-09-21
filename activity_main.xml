@@ -36,7 +36,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:text="TextView"
+                android:text="Trung Tín"
                 android:textColor="#fff"
 
                 />
@@ -47,7 +47,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:text="TextView"
+                android:text="Trung Tín"
                 android:textColor="#fff" />
 
 
@@ -57,7 +57,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:gravity="center"
-                android:text="TextView"
+                android:text="Trung Tín"
                 android:textColor="#fff" />
 
         </LinearLayout>
@@ -75,7 +75,7 @@
             android:layout_weight="1"
             android:background="#777777"
             android:gravity="center"
-            android:text="TextView"
+            android:text="Trung Tín"
             android:textColor="#fff" />
 
         <TextView
@@ -85,7 +85,7 @@
             android:layout_weight="1"
             android:background="#aaaaaa"
             android:gravity="center"
-            android:text="TextView"
+            android:text="Trung Tín"
             android:textColor="#fff" />
 
 
@@ -96,7 +96,7 @@
             android:layout_weight="1"
             android:background="#333333"
             android:gravity="center"
-            android:text="TextView"
+            android:text="Trung Tín"
             android:textColor="#fff" />
 
     </LinearLayout>
